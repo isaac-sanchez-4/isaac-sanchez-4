@@ -1,24 +1,24 @@
-# ¡Hola! 👋 Soy Isaac Sánchez
+# ¡Hola! Soy Isaac Sánchez
 
 ## Bienvenido a mi perfil de GitHub
 
-Soy un desarrollador apasionado por crear soluciones innovadoras y código de calidad. Actualmente cursando **DAM** (Desarrollo de Aplicaciones Multiplataforma), **DAW** (Desarrollo de Aplicaciones Web) y un **Máster en IA y Big Data**. Me dedico a explorar nuevas tecnologías y resolver problemas complejos a través de la programación.
+Soy un desarrollador apasionado por crear soluciones innovadoras y código de calidad. Titulado en **DAM** (Desarrollo de Aplicaciones Multiplataforma) y actualmente cursando  **DAW** (Desarrollo de Aplicaciones Web) y un **Máster en IA y Big Data**. Me dedico a explorar nuevas tecnologías y resolver problemas complejos a través de la programación.
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
-- 💻 Desarrollador Full Stack con experiencia en múltiples lenguajes de programación
-- 📱 Especializado en desarrollo de aplicaciones móviles (Android/Kotlin)
-- 🤖 Explorando Inteligencia Artificial y Big Data
-- 🎯 Enfocado en escribir código limpio, mantenible y escalable
-- 🌱 Siempre aprendiendo nuevas tecnologías y mejorando mis habilidades
-- 🤝 Amante de la colaboración y el trabajo en equipo
-- 📚 Comprometido con las mejores prácticas de desarrollo
+- Desarrollador Full Stack con experiencia en múltiples lenguajes de programación
+- Especializado en desarrollo de aplicaciones móviles (Android/Kotlin)
+- Explorando Inteligencia Artificial y Big Data
+- Enfocado en escribir código limpio, mantenible y escalable
+- Siempre aprendiendo nuevas tecnologías y mejorando mis habilidades
+- Amante de la colaboración y el trabajo en equipo
+- Comprometido con las mejores prácticas de desarrollo
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 ### Lenguajes de Programación
 <div>
@@ -62,7 +62,7 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y código de ca
 
 ## 📚 Estudios Actuales
 
-- **DAM** (Desarrollo de Aplicaciones Multiplataforma) - En Curso
+- **DAM** (Desarrollo de Aplicaciones Multiplataforma) - Finalizado
 - **DAW** (Desarrollo de Aplicaciones Web) - En Curso  
 - **Máster en IA y Big Data** - En Curso
 
@@ -80,62 +80,10 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y código de ca
 
 ---
 
-## 📊 Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaac-sanchez-4&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-sanchez-4&layout=compact&theme=radical)
-
----
-
-## 💡 Proyectos Destacados
-
-Aquí encontrarás algunos de mis proyectos más interesantes. Siéntete libre de explorar mis repositorios y contribuir si lo deseas.
-
-### 📌 Proyectos DAM
-Aplicaciones móviles desarrolladas con **Android Studio** y **Kotlin**.
-
-### 📌 Proyectos DAW
-Aplicaciones web desarrolladas con **JavaScript**, **PHP** y bases de datos **MySQL/SQL Server**.
-
-### 📌 Proyectos IA y Big Data
-Proyectos de Machine Learning y análisis de datos con **Python**.
-
----
-
-## 🤲 Contribuciones
-
-¡Estoy abierto a colaboraciones! Si tienes una idea interesante o quieres trabajar juntos en un proyecto, no dudes en contactarme.
-
-### Cómo Contribuir
-1. Haz un Fork del proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
----
 
 ## 📫 Cómo Contactarme
 
 - **Email**: sugussanchez31@gmail.com
 - **GitHub**: [@isaac-sanchez-4](https://github.com/isaac-sanchez-4)
-- **LinkedIn**: *(Añade tu perfil aquí)*
+- **LinkedIn**: [*(Isaac-sanchez-garcia-a)*](https://www.linkedin.com/in/isaac-sanchez-garcia-/)
 
----
-
-## 📝 Licencia
-
-Este proyecto está bajo la licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
-## ⭐ Apoya mi Trabajo
-
-Si te gustan mis proyectos, considera darles una estrella ⭐. ¡Significa mucho para mí!
-
----
-
-**Última actualización**: Septiembre 2026
-
-> *"El código es poesía escrita en lógica"* 💻✨
