@@ -68,7 +68,7 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y código de ca
 
 ---
 
-## 📫 Cómo Contactarme
+## Cómo Contactarme
 
 - **Email**: sugussanchez31@gmail.com
 - **GitHub**: [@isaac-sanchez-4](https://github.com/isaac-sanchez-4)
