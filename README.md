@@ -60,26 +60,13 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y código de ca
 
 ---
 
-## 📚 Estudios Actuales
+## Estudios Actuales
 
 - **DAM** (Desarrollo de Aplicaciones Multiplataforma) - Finalizado
 - **DAW** (Desarrollo de Aplicaciones Web) - En Curso  
 - **Máster en IA y Big Data** - En Curso
 
 ---
-
-## 🎯 Áreas de Especialización
-
-- 📱 Desarrollo de Aplicaciones Móviles (Android/Kotlin)
-- 💻 Desarrollo Backend con Java y Python
-- 🌐 Desarrollo Web
-- 🤖 Inteligencia Artificial y Machine Learning
-- 📊 Big Data y Análisis de Datos
-- 🗄️ Diseño y Gestión de Bases de Datos
-- 🐳 Containerización con Docker
-
----
-
 
 ## 📫 Cómo Contactarme
 
